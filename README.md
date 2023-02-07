@@ -38,6 +38,7 @@ We can explore the relationship between average donation and chance of successfu
 ## 4.Use your data to determine whether the mean or the median better summarises the data.
 
 According to box and whisker plot, the data distribution is skewed, and median give a better insight in distribution of data.
+
 ![image](https://user-images.githubusercontent.com/117792685/217137985-595a3495-cc0c-4db6-bad6-f57a2b63fc62.png)
 ![image](https://user-images.githubusercontent.com/117792685/217138055-851f9d7a-266f-454a-8812-35f15597098d.png)
 
